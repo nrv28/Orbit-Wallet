@@ -29,25 +29,25 @@ This React Native application features a search screen that dynamically displays
 Below are the screenshots demonstrating the features of the application. All screenshots are located in the `Resource` folder in the root directory on GitHub.
 
 ### 1. Home Bar
-![Home Bar](Resource/1.png)
+![Home Bar](Resource/1.jpg)
 
 ### 2. Loading Indicator
-![Loading Indicator](Resource/2.png)
+![Loading Indicator](Resource/2.jpg)
 
 ### 3. Quotes List
-![Quotes List](Resource/3.png)
+![Quotes List](Resource/3.jpg)
 
 ### 4. Quote Card
-![Quote Card](Resource/4.png)
+![Quote Card](Resource/4.jpg)
 
 ### 5. Error Handling
-![Error Handling](Resource/5.png)
+![Error Handling](Resource/5.jpg)
 
 ### 6. Responsive UI - Portrait Mode
-![Portrait Mode](Resource/6.png)
+![Portrait Mode](Resource/6.jpg)
 
 ### 7. Responsive UI - Landscape Mode
-![Landscape Mode](Resource/7.png)
+![Landscape Mode](Resource/7.jpg)
 
 ## API Integration
 
