@@ -2,6 +2,20 @@
 
 This React Native application features a search screen that dynamically displays inspiring quotes, a search functionality, and a clean user interface. Below, you'll find a detailed description of the application's functionality, its features, and screenshots of the UI.
 
+   ## Screenshot of App
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="Resource/1.jpg" alt="Search Bar" width="100">
+  <img src="Resource/2.jpg" alt="Loading Indicator" width="100">
+  <img src="Resource/3.jpg" alt="Quotes List" width="100">
+  <img src="Resource/4.jpg" alt="Quote Card" width="100">
+  <img src="Resource/5.jpg" alt="Error Handling" width="100">
+  <img src="Resource/6.jpg" alt="Portrait Mode" width="100">
+  <img src="Resource/7.jpg" alt="Landscape Mode" width="100">
+</div>
+
+
+
 ## Features
 
 1. **Search Bar**:
@@ -116,6 +130,7 @@ https://zenquotes.io/api/quotes
 2. **Quotes List**: Scroll through the dynamically fetched quotes.
 3. **Error Handling**: If the quotes fail to load, an error alert will notify you.
 4. **Responsive Design**: Use the app in both portrait and landscape modes for a seamless experience.
+
 
 
 
