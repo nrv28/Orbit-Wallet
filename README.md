@@ -5,13 +5,13 @@ This React Native application features a search screen that dynamically displays
    ## Screenshot of App
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="Resource/1.jpg" alt="Search Bar" width="100">
-  <img src="Resource/2.jpg" alt="Loading Indicator" width="100">
-  <img src="Resource/3.jpg" alt="Quotes List" width="100">
-  <img src="Resource/4.jpg" alt="Quote Card" width="100">
-  <img src="Resource/5.jpg" alt="Error Handling" width="100">
-  <img src="Resource/6.jpg" alt="Portrait Mode" width="100">
-  <img src="Resource/7.jpg" alt="Landscape Mode" width="100">
+  <img src="Resource/1.jpg" alt="Search Bar" width="200">
+  <img src="Resource/2.jpg" alt="Loading Indicator" width="200">
+  <img src="Resource/3.jpg" alt="Quotes List" width="200">
+  <img src="Resource/4.jpg" alt="Quote Card" width="200">
+  <img src="Resource/5.jpg" alt="Error Handling" width="200">
+  <img src="Resource/6.jpg" alt="Portrait Mode" width="200">
+  <img src="Resource/7.jpg" alt="Landscape Mode" width="200">
 </div>
 
 
