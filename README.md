@@ -29,7 +29,8 @@ This React Native application features a search screen that dynamically displays
 Below are the screenshots demonstrating the features of the application. All screenshots are located in the `Resource` folder in the root directory on GitHub.
 
 ### 1. Home Bar
-![Home Bar](Resource/1.jpg)
+<img src="Resource/1.jpg" alt="Home Bar" width="500">
+
 
 ### 2. Loading Indicator
 ![Loading Indicator](Resource/2.jpg)
@@ -117,11 +118,9 @@ https://zenquotes.io/api/quotes
 3. **Error Handling**: If the quotes fail to load, an error alert will notify you.
 4. **Responsive Design**: Use the app in both portrait and landscape modes for a seamless experience.
 
-## Contribution
 
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the app.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 
